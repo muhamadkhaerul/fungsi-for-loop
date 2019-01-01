@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    for ( int a = 1; a <= 8; a++ ){ cout << "Looping " << endl; }
+    cin.get();
+    return 0;
+}
